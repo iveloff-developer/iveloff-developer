@@ -1,5 +1,6 @@
 [![Illias's GitHub stats](https://github-readme-stats-two-xi-95.vercel.app/api?username=iveloff-developer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=buefy&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
+🔗 [Here](https://github.com/iveloff-developer/iveloff-developer/blob/7cf15d344d97c8dcf1913eb7a4fed948e235d97d/analysis_options.yaml) are my Linter rules that I use in my Dart and Flutter projects to make my code cleaner, less buggy, and more consistent.
 <!--
 **iveloff-developer/iveloff-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
